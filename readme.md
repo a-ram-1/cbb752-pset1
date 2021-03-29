@@ -16,11 +16,11 @@ git clone git://github.com/a-ram-1/cbb752-pset1.git
 
 Enclosed are the following files: 
 
-* _blosum62.txt_ -- the blosum62 scoring matrix
-* _input.txt_ -- the input file
-* _sample-input1.txt_ -- a sample input file
-* _sample-input2.txt_ -- another sample input file
-* _sample-output1.txt_ -- what the output should look like if you run the algorithm with _sample-input1.txt_
-* _sample-output2.txt_ -- what the output should look like if you run the algorithm with _sample-input2.txt_
-* _pset1.py_ -- code for pset 1
+* **blosum62.txt** -- the blosum62 scoring matrix
+* **input.txt** -- the input file
+* **sample-input1.txt** -- a sample input file
+* **sample-input2.txt** -- another sample input file
+* **sample-output1.txt** -- what the output should look like if you run the algorithm with **sample-input1.txt**
+* **sample-output2.txt** -- what the output should look like if you run the algorithm with **sample-input2.txt**
+* **pset1.py** -- code for pset 1
 
