@@ -24,6 +24,7 @@ Enclosed are the following files:
 * **sample-output2.txt** -- what the output should look like if you run the algorithm with **sample-input2.txt**
 * **pset1.py** -- code for pset 1
 * **output.txt** -- output when running my script on the input file
+* **example-input.txt** -- input file to run the example below
 
 Here's the command you'll run: 
 
@@ -92,4 +93,5 @@ ALSKER(ASDASD-LWE)RI
 
 ```
 
+If you want to rerun this example I've included example-input.txt along with the rest of the files. 
 
