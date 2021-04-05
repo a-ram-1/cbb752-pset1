@@ -23,4 +23,13 @@ Enclosed are the following files:
 * **sample-output1.txt** -- what the output should look like if you run the algorithm with **sample-input1.txt**
 * **sample-output2.txt** -- what the output should look like if you run the algorithm with **sample-input2.txt**
 * **pset1.py** -- code for pset 1
+* **output.txt** -- output when running my script on the input file
+
+Here's the command you'll run: 
+
+```
+python pset1.py -i [inputfile].txt -s blosum62.txt 
+```
+
+There are two additional optional parameters, -o and -e which are gap opening and extension penalties respectively. By default they are set to -2 and -1. If you wanted to set them, add arguments like "-o -3 -e -4".
 
